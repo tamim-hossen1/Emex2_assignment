@@ -59,6 +59,7 @@ class HomeScreen extends StatelessWidget {
                   radius: 80,
                   child: Icon(Icons.icecream_outlined,size: 110,),
                 ),
+                SizedBox(height: 20),
 
                 Text('Ice Cream is very delicious right?',    //text
                   style: TextStyle(
@@ -73,6 +74,7 @@ class HomeScreen extends StatelessWidget {
                   radius: 80,
                   child: Icon(Icons.code,size: 110),
                 ),
+                SizedBox(height: 20),
 
                 Text('Programming is not boring if you love it',     //text
                   style: TextStyle(
@@ -86,6 +88,7 @@ class HomeScreen extends StatelessWidget {
                   radius: 80,
                   child: Icon(Icons.water_drop_outlined,size: 110,),
                 ),
+                SizedBox(height: 20),
 
                 Text('If you submit code directly copy from chatgpt then mark will 0',    //text
                   style: TextStyle(
