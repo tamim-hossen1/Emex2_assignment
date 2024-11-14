@@ -87,7 +87,7 @@ class HomeScreen extends StatelessWidget {
                   child: Icon(Icons.water_drop_outlined,size: 110,),
                 ),
 
-                Text('If you submit code directly copy from chatgpt then mark will 0',
+                Text('If you submit code directly copy from chatgpt then mark will 0',    //text
                   style: TextStyle(
                     fontSize: 13,
                     fontWeight: FontWeight.bold,
