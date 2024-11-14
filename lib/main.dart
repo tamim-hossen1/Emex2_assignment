@@ -70,7 +70,7 @@ class HomeScreen extends StatelessWidget {
 
                 CircleAvatar(
                   radius: 80,
-                  child: Icon(Icons.icecream_outlined,size: 110),
+                  child: Icon(Icons.code,size: 110),
                 ),
 
                 Text('Programming is not boring if you love it',
